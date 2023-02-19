@@ -31,9 +31,11 @@ p{
     height: 100px;
 }
 .redes{
-    margin: 400px;
-    text-decoration: none;
+    padding:auto;
+    display: flex;
     justify-content: center;
+    margin-top: 25px;
+    margin-bottom: 25px;    
     
 }
 button{
