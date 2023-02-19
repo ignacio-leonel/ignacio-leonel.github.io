@@ -40,7 +40,7 @@ p img{
     width: 100px;
     height: 100px;
 }
-.redes{
+.redes, .links{
     padding:auto;
     display: flex;
     justify-content: center;
