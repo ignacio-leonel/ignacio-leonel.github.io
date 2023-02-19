@@ -28,9 +28,8 @@ p{
     margin-right: 250px;
 }
 .links{
-    text-decoration: none;
-    color: #9fe7f5;
-    font-size: 15px;
+    width: 100px;
+    height: 100px;
 }
 .redes{
     margin: 200px;
