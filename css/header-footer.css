@@ -5,7 +5,7 @@ min-height: 100vh;
 
 }
 header nav{
-    
+    margin-rigth: 50px;
     font-size: 20px;
     display: flex;
     text-decoration: none;
