@@ -1,9 +1,6 @@
 body{
     background: #c9c9c9;
     font-family: 'Montserrat', sans-serif;
-    
-    
-
 }
 header{
     background: #053f5c;
@@ -27,12 +24,12 @@ header{
     font-size: 20px;
     text-align: center;
     text-transform:none;
-    margin: 15px 125px 15px 125px; 
-   
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-bottom: 30px;
 }
-b{
+.negrita{
     font-weight: bold;
-
 }
 
 h1{
@@ -43,15 +40,10 @@ h1{
     margin-bottom: 100px;
 }
 h2{
-    
         font-size: 35px;
         background-color: #9fe7f5;
-        text-align: center;
-       
-
+        text-align: center;   
 }
-
-
 
 label img{
     height: 150px;
@@ -94,8 +86,6 @@ footer{
         justify-content: center;
         margin-top: 10px;
         margin-bottom: 10px;
-
-        
     }
   
     
