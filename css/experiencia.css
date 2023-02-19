@@ -26,6 +26,16 @@ p{
     margin-left: 250px;
     margin-right: 250px;
 }
+p img{
+    width: 250px;
+    height: 180px;
+}
+.certificado{
+    height: 300px;
+    width: auto;
+    margin-left: 100px;
+    margin-bottom: 15px;
+}
 .links{
     width: 100px;
     height: 100px;
