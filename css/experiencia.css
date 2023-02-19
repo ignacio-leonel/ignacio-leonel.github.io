@@ -38,22 +38,7 @@ p{
     margin-bottom: 25px;    
     
 }
-button{
-    height: 50px;
-    width: 150px;
-    border-radius: 20px;
-    margin-left: 100px;
-    margin-top: 30px;
-    background-color: #3e5f8a;
-    text-decoration: none;
-    color: #9fe7f5;
-    border-color: whitesmoke;
-    transition: 3s, background;
-}
-button:hover{
-    background-color:#053f5c
-    
-}
+
 @media screen and (max-width:480px){
     
         header, nav a, label img {
@@ -84,8 +69,5 @@ button:hover{
             justify-content: flex-start;
             margin-bottom: 20px;
         }
-        button{
-            margin-left: 5px;
-            
-        }
+        
     }
