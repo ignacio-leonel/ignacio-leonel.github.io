@@ -31,6 +31,7 @@ p img{
     height: 180px;
 }
 .certificado{
+    margin-top:50px;
     height: 300px;
     width: auto;
     margin-left: 100px;
@@ -79,5 +80,9 @@ p img{
             justify-content: flex-start;
             margin-bottom: 20px;
         }
-        
+        .certificado{
+        width: 100%;
+        height: auto;
+        margin: auto;
+    }
     }
